@@ -56,9 +56,10 @@ Written in Bash. On login `.bashrc` automatically runs `journal.sh` which create
 
 | File | What it does |
 |------|-------------|
-| `journal.sh` | Main launcher — welcome screen, opens today's entry, shows word count and streak |
+| `journal.sh` | Main launcher — welcome screen, opens today's entry, shows word count |
 | `readEntries.sh` | Browse and open past journal entries by date |
 | `unlock.py` | Runs at boot — reads R503 fingerprint sensor and unlocks LUKS encrypted partition |
+| `boot.sh` | Goes in your .bashrc file — Copy paste the code in this file at the bottom of .bashrc file so that it runs each time you open a terminal |
 
 ---
 
@@ -77,3 +78,13 @@ The enclosure is a Battleship board game case with components mounted inside usi
 - micro text editor
 - Bash + Python 3
 - Onshape (CAD)
+
+##some pictures
+
+This is what the screen will look like on boot
+<img width="739" height="543" alt="Screenshot 2026-05-06 at 12 13 03 AM" src="https://github.com/user-attachments/assets/c61de37e-581b-4599-90bc-cb297bffc23d" />
+
+This is what the CAD looks like 
+<img width="377" height="384" alt="Screenshot 2026-05-10 at 6 33 19 PM" src="https://github.com/user-attachments/assets/222ae7cb-9150-49ee-9693-b18d04a401a7" />
+
+
