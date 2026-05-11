@@ -79,8 +79,7 @@ The enclosure is a Battleship board game case with components mounted inside usi
 - Bash + Python 3
 - Onshape (CAD)
 
-##some pictures
-
+## Some pictures
 This is what the screen will look like on boot
 <img width="739" height="543" alt="Screenshot 2026-05-06 at 12 13 03 AM" src="https://github.com/user-attachments/assets/c61de37e-581b-4599-90bc-cb297bffc23d" />
 
@@ -90,6 +89,7 @@ This is what the CAD looks like
 
 ## Hack club zine flyer
 <img width="322" height="528" alt="Screenshot 2026-05-10 at 7 23 31 PM" src="https://github.com/user-attachments/assets/ca2ca0ed-866d-4c7d-b0c8-e692414cdb71" />
+(I'll switch the picture of the CAD with the real things once I get it built)
 
 
 
