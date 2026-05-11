@@ -88,7 +88,8 @@ This is what the CAD looks like
 <img width="377" height="384" alt="Screenshot 2026-05-10 at 6 33 19 PM" src="https://github.com/user-attachments/assets/222ae7cb-9150-49ee-9693-b18d04a401a7" />
 
 
-##Hack club zine flyer
-<img width="344" height="549" alt="Screenshot 2026-05-10 at 7 18 05 PM" src="https://github.com/user-attachments/assets/d0a12224-f1e2-40cd-bff2-03cc70dd8d31" />
+## Hack club zine flyer
+<img width="322" height="528" alt="Screenshot 2026-05-10 at 7 23 31 PM" src="https://github.com/user-attachments/assets/ca2ca0ed-866d-4c7d-b0c8-e692414cdb71" />
+
 
 
