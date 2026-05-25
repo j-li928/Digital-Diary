@@ -86,6 +86,9 @@ This is what the screen will look like on boot
 This is what the CAD looks like 
 <img width="377" height="384" alt="Screenshot 2026-05-10 at 6 33 19 PM" src="https://github.com/user-attachments/assets/222ae7cb-9150-49ee-9693-b18d04a401a7" />
 
+This is the wiring schematic 
+<img width="721" height="437" alt="Screenshot 2026-05-25 at 5 04 48 PM" src="https://github.com/user-attachments/assets/d9158700-313e-42a6-9c68-5e11ef060c18" />
+
 
 ## Hack club zine flyer
 <img width="322" height="528" alt="Screenshot 2026-05-10 at 7 23 31 PM" src="https://github.com/user-attachments/assets/ca2ca0ed-866d-4c7d-b0c8-e692414cdb71" />
