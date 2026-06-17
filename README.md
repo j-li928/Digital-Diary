@@ -65,8 +65,9 @@ Written in Bash. On login `.bashrc` automatically runs `journal.sh` which create
 
 ## CAD
 
-The enclosure is a Battleship board game case with components mounted inside using brass standoffs and 3M VHB tape. The lid is the screen half, the bottom tray holds the keyboard, Pi, and PiSugar battery. The R503 sensor is flush mounted in the front wall.
-
+The enclosure is a wooden box that I made myself. The screen is mounted with screws and the bottom tray holds the keyboard, R503, Pi, and PiSugar battery.
+Here's the link to OnShape:
+https://cad.onshape.com/documents/9e8fc8fa49fc9f6e9f6fc67d/w/f8624b57fe9f54373a6fee66/e/190da50fa6b62c096456a805?renderMode=0&uiState=6a33074bd2cc085c33a98b5d
 
 ---
 
@@ -84,7 +85,8 @@ This is what the screen will look like on boot
 <img width="739" height="543" alt="Screenshot 2026-05-06 at 12 13 03 AM" src="https://github.com/user-attachments/assets/c61de37e-581b-4599-90bc-cb297bffc23d" />
 
 This is what the CAD looks like 
-<img width="377" height="384" alt="Screenshot 2026-05-10 at 6 33 19 PM" src="https://github.com/user-attachments/assets/222ae7cb-9150-49ee-9693-b18d04a401a7" />
+<img width="667" height="669" alt="Screenshot 2026-06-17 at 3 30 49 PM" src="https://github.com/user-attachments/assets/25d15907-078b-48e4-bb57-392ad0f30492" />
+
 
 This is the wiring schematic 
 <img width="721" height="437" alt="Screenshot 2026-05-25 at 5 04 48 PM" src="https://github.com/user-attachments/assets/d9158700-313e-42a6-9c68-5e11ef060c18" />
